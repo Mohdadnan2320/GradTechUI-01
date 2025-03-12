@@ -33,18 +33,6 @@ const LandingPage = () => {
       </div>
     )}
   </>
-    // <div className="bg-[var(--color-background-secondary)] select-none">
-    //   <Navbar />
-    //   <Hero />
-    //   <HiringNetworks />
-    //   <Courses />
-    //   <WhyGradTech />
-    //   <ImageSlider />
-    //   <Slider />
-    //   <Faq />
-    //   <Contact />
-    //   <Footer />
-    // </div>
   );
 };
 

@@ -13,7 +13,7 @@ const Contact = () => {
       <div className="w-full mt-5 p-5">
         <form className="space-y-4 ">
           <div className="lg:flex lg:flex-wrap lg:justify-between lg:items-center lg:gap-5">
-          <div className="w-2/6 my-5">
+          <div className="lg:w-2/6 my-5">
           <input
             type="text"
             placeholder="Name"
@@ -21,7 +21,7 @@ const Contact = () => {
             className="w-full mt-1 p-2 border-b border-[var(--color-whiteborder)] outline-none text-[var(--color-white)]"
           />
         </div>
-        <div  className="w-2/6 my-5">
+        <div  className="lg:w-2/6 my-5">
           <input
             type="email"
             placeholder="E-mail"
@@ -29,7 +29,7 @@ const Contact = () => {
             className="w-full mt-1 p-2 border-b border-[var(--color-whiteborder)] outline-none text-[var(--color-white)]"
           />
         </div>
-        <div  className="w-2/6 my-5">
+        <div  className="lg:w-2/6 my-5">
           <input
             type="text"
             placeholder="Branch"
@@ -37,7 +37,7 @@ const Contact = () => {
             className="w-full mt-1 p-2 border-b border-[var(--color-whiteborder)] outline-none text-[var(--color-white)]"
           />
         </div>
-        <div  className="w-2/6 my-5">
+        <div  className="lg:w-2/6 my-5">
           <input
             type="number"
             placeholder="Contact Number"
