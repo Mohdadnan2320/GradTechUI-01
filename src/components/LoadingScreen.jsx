@@ -15,7 +15,7 @@ const LoadingScreen = ({ onLoaded }) => {
 
   return (
     <div className="flex justify-center items-center h-screen bg-[var(--color-background-secondary)] text-white">
-      <div className="text-3xl font-bold flex gap-5">
+      <div className="text-3xl font-bold flex justify-center items-center gap-5">
       <h1 className="font-bold ">
               Grad<span className="text-[var(--color-red)]">Tech</span>
         </h1>
