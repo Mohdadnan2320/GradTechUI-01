@@ -8,7 +8,7 @@ const Hero = () => {
           Bridging the Gap Between{" "}
         </h1>
         <h1 className="text-5xl font-bold tracking-tight leading-tight md:whitespace-nowrapp md:text-6xl lg:text-7xl xl:text-8xl">
-          Academia and Industry:{" "}
+          Academic and Industry:{" "}
         </h1>
         <h1 className="text-5xl font-bold tracking-tight leading-tight md:whitespace-nowrapp md:text-6xl lg:text-7xl xl:text-8xl">
           Secure Your <span className="text-[var(--color-red)]">Dream Job</span>
